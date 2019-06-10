@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\0d8f3d0600f4f6b1db5f61955212dae5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\7cd732f1d8571f4409d66b12dd11ebe9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\bffc4b6ab23072b0b19699973c524e30\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:8:2-64
+	android:name
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:8:19-61
+application
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:14:5-27:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\0d8f3d0600f4f6b1db5f61955212dae5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\0d8f3d0600f4f6b1db5f61955212dae5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\7cd732f1d8571f4409d66b12dd11ebe9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\7cd732f1d8571f4409d66b12dd11ebe9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\bffc4b6ab23072b0b19699973c524e30\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\bffc4b6ab23072b0b19699973c524e30\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:16:9-40
+	android:allowBackup
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:18:9-73
+activity#ek.easytoapps.bitdurg.EkMain
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:21:13-38
+	android:name
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:20:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\0d8f3d0600f4f6b1db5f61955212dae5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\0d8f3d0600f4f6b1db5f61955212dae5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\7cd732f1d8571f4409d66b12dd11ebe9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\7cd732f1d8571f4409d66b12dd11ebe9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\bffc4b6ab23072b0b19699973c524e30\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\tusha\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\bffc4b6ab23072b0b19699973c524e30\AndroidManifest.xml:20:5-43
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		ADDED from E:\android projects\autohome\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android projects\autohome\app\src\main\AndroidManifest.xml

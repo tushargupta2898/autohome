@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ek Gurudwara Search</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+    <body>
+
+    <div class="container-fluid">
+	        <div class="row"> <!--Row Start-->                <div class="col-md-12">
+			            <h4 class="text-left text-primary">
+				            Locate GURUDWARA Near You !
+			            </h4>                </div>
+
+			<div class="list-group" id="ek_list_places">
+				<a href="#" class="list-group-item"><span class="badge">14 KM</span>List Item 1</a>
+                <a href="#" class="list-group-item"><span class="badge">140 KM</span>List Item 2</a>
+			</div>            <div id="map"></div>                
+        
+                
+             </div> <!--Row End -->
+
+
+            <!-- Modal Start here-->
+            <div class="modal fade bs-example-modal-sm" id="myPleaseWait" tabindex="-1"
+                role="dialog" aria-hidden="true" data-backdrop="static">
+                <div class="modal-dialog modal-sm" style="margin-top: 25%">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title" id="ek_modal_title1">
+                                Getting Location !
+                             </h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-info
+                                progress-bar-striped active"
+                                style="width: 100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal ends Here -->
+
+    </div>
+        
+
+    <script src="js/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDUe9YmYj3dbDfSIb4C_R4GY5Kk53GG-Q&amp;libraries=places" async defer></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="ek_default.js"></script>
+
+    </body>
+</html>

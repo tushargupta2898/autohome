@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:8:2-64
+	android:name
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:8:19-61
+application
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:14:5-27:19
+MERGED from [com.android.support:design:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:18:9-73
+activity#ek.easytoapps.nutridb.EkMain
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:21:13-46
+	android:name
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:20:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EkAndroidStuProj\EkZoho\EkDashboard_Nutriclick\app\src\main\AndroidManifest.xml

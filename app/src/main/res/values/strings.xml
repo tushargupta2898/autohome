@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AUTOHOME</string>
+    <string name="ekmenu_about">About Us</string>
+    <string name="ek_welcome">Welcome</string>
+    <string name="ekmenu_refresh">Refresh</string>
+    <string name="ekmenu_exit">Exit</string>
+
+</resources>
